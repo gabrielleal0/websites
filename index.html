@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container-horizontal">
+      <header>
+        <div class="overlay">
+		  <h1 class="sombreado">Artigo sobre o projeto CrecheNow</h1>
+		    <br>
+          <h1 class="sombreado">DIGITALIZANDO A EDUCAÇÃO: COMO AGENDAS DIGITAIS<br>PODEM 
+				REDUZIR O IMPACTO AMBIENTAL NAS ESCOLAS</h1>
+			<br><br><br><br>
+		  <h3 class="sombreado2">André Junio Carvalhal De Almeida, Gabriel Leal Da Silva, Laryssa Meryene Dos Santos Cardoso,<br>
+Lucas Chrystello Baptista de Faria, Lucas Malfacine Rodrigues, Lucca De Andrade Vianna Braz.<h3>
+			<br><br><br>
+		  <h2 class="sombreado">Universidade de Vassouras, Curso de Engenharia de Software</h2>
+		    <br><br><br><br><br><br><br><br>
+		  <h3 class="sombreado2">Palavras-chaves: Agendas Digitais. Educação Sustentável. Digitalização Escolar.</h3>
+        </div>
+      </header>
+      <div class="fundo">
+      </div>
+    </div>
+    <div class="container">
+      <section class="landing_1">
+          <h1><h1>Introdução</h1>
+             <p>O crescente acúmulo de documentos físicos tem levado instituições educacionais a 
+repensarem suas práticas cotidianas. O uso excessivo de papel nas escolas, presente em agendas, 
+comunicados e documentos diversos, representa um impacto ambiental significativo e impede 
+uma comunicação mais eficiente e direta entre as instituições e os pais dos alunos. Este artigo 
+propõe que a implementação de agendas digitais, além de melhorar a comunicação, pode 
+mitigar esse impacto ambiental, promovendo uma educação mais sustentável.</p>
+          <h1>Desenvolvimento</h1>
+            <p>A transformação digital no ambiente escolar tem sido amplamente discutida como 
+essencial para modernizar a educação e promover a sustentabilidade. Estudos indicam que a 
+incorporação de tecnologias digitais amplia as possibilidades de interação, personalização da 
+aprendizagem e otimização da gestão escolar (Moran, 2021). O uso crítico e integrado das 
+tecnologias favorece a formação cidadã e práticas educacionais mais eficazes (Kenski, 2020).</p>
+			<p>Além de inovar, a digitalização contribui para práticas sustentáveis. A substituição de 
+documentos físicos por agendas digitais reduz o consumo de papel, minimiza o desperdício e 
+estimula a responsabilidade ambiental no ambiente escolar. A sustentabilidade na educação é 
+vista como a integração de desenvolvimento econômico, inclusão social e preservação 
+ambiental (Sachs, 2015).</p>
+			<p>Além disso, Lucas Malfacine Rodrigues, um dos autores deste artigo, disse que quando 
+trabalhou por dois anos e meio em uma creche, ele observou como a falta de um sistema digital 
+torna tudo mais difícil para todos. A creche gastava muito tempo imprimindo e entregando 
+papéis, e os pais precisavam checar diariamente a mochila das crianças para não perder nenhum 
+comunicado ou documento para assinar. Essa rotina era muito cansativa para ambas as partes e 
+passível de erros, mas poderia ser facilmente resolvida com a adoção de uma agenda digital, 
+que facilitaria a comunicação e tornaria tudo mais prático.</p>
+			<p>Assim, a digitalização das práticas administrativas e pedagógicas não só moderniza os 
+processos, mas também facilita o dia a dia das famílias e promove ações mais sustentáveis, 
+unindo eficiência, qualidade e consciência ambiental.</p>
+          <h1>Metodologia</h1>
+            <p>Este estudo adota uma abordagem qualitativa e aplicada, com foco em instituições 
+educacionais que ainda não implementaram soluções digitais na gestão de agendas e 
+comunicados. A pesquisa busca compreender os impactos do uso excessivo de papel, tanto no 
+sobrecarregamento dos funcionários quanto no impacto ambiental, e explorar os benefícios 
+potenciais da transição para plataformas digitais.</p>
+		  <h1>Resultados</h1>
+		    <p>4.1. Economia de Recursos Naturais: A produção de papel envolve o consumo de 
+madeira, água e energia. Cada tonelada de papel reciclado economiza de 17 a 20 árvores e reduz 
+o consumo de água e energia, promovendo práticas mais sustentáveis.</p>
+			<p>4.2. Otimização de Processos Administrativos: A digitalização agiliza processos 
+administrativos, como o envio de comunicados e a gestão de informações, resultando em 
+economia de tempo e recursos.</p>
+			<p>4.3. Conscientização Ambiental da Comunidade Escolar: A implementação de 
+soluções digitais serve como exemplo de práticas sustentáveis para alunos, pais e funcionários, 
+promovendo uma cultura institucional mais alinhada com práticas sustentáveis.</p>
+			<p>4.4. Redução de Desperdício de Papel: Estudos indicam que uma escola média pode 
+produzir até 45 kg de lixo por aluno a cada ano letivo, sendo que até 78% desses resíduos podem 
+ser reciclados. A digitalização pode reduzir significativamente a quantidade de papel 
+descartado, contribuindo para a diminuição do desperdício e a promoção de práticas de 
+reciclagem.</p>
+		  <h1>Conclusão</h1>
+		    <p>A adoção de agendas digitais nas instituições educacionais representa uma solução 
+prática e eficaz para problemas recorrentes no ambiente escolar, como o excesso de papel, a 
+ineficiência nos processos administrativos e a dificuldade de comunicação entre escola e 
+família. Os dados apresentados ao longo deste artigo evidenciam que a digitalização contribui 
+diretamente para a sustentabilidade, otimizando o uso de recursos naturais e promovendo uma 
+cultura ambiental mais consciente.</p>
+			<p>Além disso, experiências práticas, como a relatada por um dos autores, reforçam que a 
+realidade vivida nas escolas sem recursos digitais ainda é marcada por rotinas desgastantes e 
+pouco eficientes. A transição para ferramentas digitais, como agendas online, não apenas reduz 
+o impacto ambiental, mas também melhora significativamente o fluxo de informações e a 
+participação dos pais na vida escolar dos filhos.</p>
+			<p>Dessa forma, é possível afirmar que a digitalização das práticas escolares não deve ser 
+vista apenas como uma tendência, mas como uma necessidade urgente para promover uma 
+educação mais moderna, acessível e alinhada aos princípios do desenvolvimento sustentável.</p>
+      </section>
+      <section class="landing_2">
+        <div class="form-container">
+          <h2>Saiba mais sobre o aplicativo CrecheNow através do seu e-mail</h2>
+          <form action="download_app.php" method="POST">
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required placeholder="Digite seu nome">
+            
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required placeholder="Digite seu e-mail">
+            
+            <button type="submit">Enviar</button>
+          </form>
+        </div>
+      </section>
+     </div>
+    </div>
+  </body>
+</html>
